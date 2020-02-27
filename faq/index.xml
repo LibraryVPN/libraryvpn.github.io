@@ -6,10 +6,29 @@
     <description>Recent content in FAQ&#39;s on LibraryVPN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Feb 2020 15:29:43 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2020 16:02:07 -0500</lastBuildDate>
     
 	<atom:link href="https://libraryvpn.org/faq/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Does This Replace Patron Education for My Library?</title>
+      <link>https://libraryvpn.org/faq/does-this-replace-patron-education-for-my-library/</link>
+      <pubDate>Thu, 27 Feb 2020 16:02:07 -0500</pubDate>
+      
+      <guid>https://libraryvpn.org/faq/does-this-replace-patron-education-for-my-library/</guid>
+      <description>No! The best security has many layered. Patron education is absolutely essential. The best tools in the world won&amp;rsquo;t keep you from getting compromised if you try hard enough. Education is the base of all security so please keep doing that! A VPN is another tool in your patron&amp;rsquo;s security tool belt, like updates, backups, and using https. All of them are important, and when they work together, they are far stronger than any of these measures are individually.</description>
+    </item>
+    
+    <item>
+      <title>Why Do We Need a Vpn? Isn&#39;t Https Enough?</title>
+      <link>https://libraryvpn.org/faq/why-do-we-need-a-vpn-isnt-https-enough/</link>
+      <pubDate>Thu, 27 Feb 2020 16:01:44 -0500</pubDate>
+      
+      <guid>https://libraryvpn.org/faq/why-do-we-need-a-vpn-isnt-https-enough/</guid>
+      <description>HTTPS is very important for security. It provides end to end encryption of your content. You can think of this like an envelope on a letter. Unlike a postcard (http), people can no longer read the contents, but they can still find out lots of information (metadata) such as who is sending the information, who they are sending it to, and how much the two are talking.
+In contrast, a VPN provides an encrypted tunnel that all the web traffic passes through.</description>
+    </item>
     
     <item>
       <title>Why Should I Use a Vpn?</title>
@@ -39,6 +58,15 @@ The second problem is that using a VPN requires people to place their trust in w
       <guid>https://libraryvpn.org/faq/why-is-this-the-librarys-role/</guid>
       <description>Library VPN brings together two ideas that are both widely accepted in modern library practice. 1. Libraries should work to protect patron privacy 2. Libraries host online services for their patrons
 Libraries have long worked to protect patron privacy. Librarian sometimes refer to this as the &amp;ldquo;Freedom to Read&amp;rdquo;, but this extends far beyond physical books. We care about people being able to exercise their intellectual freedom when accessing information, regardless of the form that information takes.</description>
+    </item>
+    
+    <item>
+      <title>Will Everyone on the Library Network Use the VPN?</title>
+      <link>https://libraryvpn.org/faq/will-everyone-on-the-library-network-use-the-vpn/</link>
+      <pubDate>Thu, 27 Feb 2020 11:40:39 -0500</pubDate>
+      
+      <guid>https://libraryvpn.org/faq/will-everyone-on-the-library-network-use-the-vpn/</guid>
+      <description>No, your existing library network will not be affected. Only people who choose to connect through the VPN client will use the VPN.</description>
     </item>
     
     <item>
