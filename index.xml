@@ -21,6 +21,34 @@
     </item>
     
     <item>
+      <title>Why Is This the Library&#39;s Role?</title>
+      <link>https://libraryvpn.org/faq/why-is-this-the-librarys-role/</link>
+      <pubDate>Thu, 27 Feb 2020 13:59:25 -0500</pubDate>
+      
+      <guid>https://libraryvpn.org/faq/why-is-this-the-librarys-role/</guid>
+      <description>Library VPN brings together two ideas that are both widely accepted in modern library practice. 1. Libraries should work to protect patron privacy 2. Libraries host online services for their patrons
+Libraries have long worked to protect patron privacy. Librarian sometimes refer to this as the &amp;ldquo;Freedom to Read&amp;rdquo;, but this extends far beyond physical books. We care about people being able to exercise their intellectual freedom when accessing information, regardless of the form that information takes.</description>
+    </item>
+    
+    <item>
+      <title>Can We Run LibraryVPN if We Do Not Have IT Staff?</title>
+      <link>https://libraryvpn.org/faq/can-we-run-libraryvpn-if-we-do-not-have-it-staff/</link>
+      <pubDate>Thu, 27 Feb 2020 11:04:49 -0500</pubDate>
+      
+      <guid>https://libraryvpn.org/faq/can-we-run-libraryvpn-if-we-do-not-have-it-staff/</guid>
+      <description>We would not recommend hosting LibraryVPN without dedicated IT staff. However we are hoping to have a hosted version available in the future so that all libraries can take advantage of their software to protect their patron&amp;rsquo;s privacy.</description>
+    </item>
+    
+    <item>
+      <title>What Are Potential Risks to running LibraryVPN?</title>
+      <link>https://libraryvpn.org/faq/what-are-potential-risks/</link>
+      <pubDate>Wed, 26 Feb 2020 16:28:58 -0500</pubDate>
+      
+      <guid>https://libraryvpn.org/faq/what-are-potential-risks/</guid>
+      <description>If you are self-hosting LibraryVPN you should be aware that anything a patron does while connected to the VPN will appear to come from your IP address. This is already the case when patrons use a libraries public internet or WIFI so this shouldn&amp;rsquo;t be too big of a change for libraries. Like when patrons use the public wifi available within the library, they may decide to do bad things while using the library&amp;rsquo;s VPN connection.</description>
+    </item>
+    
+    <item>
       <title>Who is behind LibraryVPN?</title>
       <link>https://libraryvpn.org/faq/who-is-behind-libraryvpn/</link>
       <pubDate>Wed, 26 Feb 2020 15:06:03 -0500</pubDate>
