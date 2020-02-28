@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>https://libraryvpn.org/</loc>
-    <lastmod>2020-02-27T16:02:07-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://libraryvpn.org/faq/why-do-i-need-a-vpn/</loc>
     <lastmod>2020-02-27T16:01:44-05:00</lastmod>
   </url>
@@ -34,6 +29,11 @@
   
   <url>
     <loc>https://libraryvpn.org/about/</loc>
+    <lastmod>2020-02-27T14:44:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://libraryvpn.org/</loc>
     <lastmod>2020-02-27T14:44:40-05:00</lastmod>
   </url>
   
@@ -60,6 +60,11 @@
   <url>
     <loc>https://libraryvpn.org/faq/who-is-behind-libraryvpn/</loc>
     <lastmod>2020-02-26T15:06:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://libraryvpn.org/libraries/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

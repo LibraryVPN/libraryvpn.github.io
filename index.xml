@@ -6,7 +6,7 @@
     <description>Recent content on LibraryVPN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Feb 2020 16:02:07 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2020 14:44:40 -0500</lastBuildDate>
     
 	<atom:link href="https://libraryvpn.org/index.xml" rel="self" type="application/rss+xml" />
     
@@ -66,8 +66,8 @@ Patrons will download an easy to use client for their Windows, Mac, or Linux com
       <pubDate>Thu, 27 Feb 2020 13:59:25 -0500</pubDate>
       
       <guid>https://libraryvpn.org/faq/why-is-this-the-librarys-role/</guid>
-      <description>Library VPN brings together two ideas that are both widely accepted in modern library practice. 1. Libraries should work to protect patron privacy 2. Libraries host online services for their patrons
-Libraries have long worked to protect patron privacy. Librarian sometimes refer to this as the &amp;ldquo;Freedom to Read&amp;rdquo;, but this extends far beyond physical books. We care about people being able to exercise their intellectual freedom when accessing information, regardless of the form that information takes.</description>
+      <description>Library VPN brings together two ideas that are both widely accepted in modern library practice.
+ Libraries should work to protect patron privacy Libraries host online services for their patrons  Libraries have long worked to protect patron privacy. Librarian sometimes refer to this as the &amp;ldquo;Freedom to Read&amp;rdquo;, but this extends far beyond physical books. We care about people being able to exercise their intellectual freedom when accessing information, regardless of the form that information takes.</description>
     </item>
     
     <item>
@@ -104,6 +104,16 @@ Libraries have long worked to protect patron privacy. Librarian sometimes refer 
       
       <guid>https://libraryvpn.org/faq/who-is-behind-libraryvpn/</guid>
       <description>LibraryVPN is an IMLS funded project. It is being developed by a partnership of libraries including the Lebanon Public Libraries, the Westchester Library System, and the Cherry hill Public Library working with LEAP. This software is free and opensource, so anyone who wishes to can install it and run it free of charge. We are currently investigated the possibility of a hosted version of this software for libraries that wish to use it, but don&amp;rsquo;t want to host it for themselves.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://libraryvpn.org/libraries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://libraryvpn.org/libraries/</guid>
+      <description>title: &amp;ldquo;About&amp;rdquo; date: 2020-02-27T14:44:40-05:00 draft: false Library VPN LibraryVPN is a free and open source software project that allows libraries to host a Virtual Private Network (VPN) for their patrons.
+Patrons will download an easy to use client for their Windows, Mac, or Linux computer. They will then connect using their library card to have access to a free, high quality, and secure VPN from a provider that they know that they can trust, their local public library.</description>
     </item>
     
   </channel>
