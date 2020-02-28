@@ -6,49 +6,10 @@
     <description>Recent content on LibraryVPN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Feb 2020 16:02:07 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2020 14:44:40 -0500</lastBuildDate>
     
 	<atom:link href="https://libraryvpn.org/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Does This Replace Patron Education for My Library?</title>
-      <link>https://libraryvpn.org/faq/does-this-replace-patron-education-for-my-library/</link>
-      <pubDate>Thu, 27 Feb 2020 16:02:07 -0500</pubDate>
-      
-      <guid>https://libraryvpn.org/faq/does-this-replace-patron-education-for-my-library/</guid>
-      <description>No! The best security has many layered. Patron education is absolutely essential. The best tools in the world won&amp;rsquo;t keep you from getting compromised if you try hard enough. Education is the base of all security so please keep doing that! A VPN is another tool in your patron&amp;rsquo;s security tool belt, like updates, backups, and using https. All of them are important, and when they work together, they are far stronger than any of these measures are individually.</description>
-    </item>
-    
-    <item>
-      <title>Why Do We Need a Vpn? Isn&#39;t Https Enough?</title>
-      <link>https://libraryvpn.org/faq/why-do-we-need-a-vpn-isnt-https-enough/</link>
-      <pubDate>Thu, 27 Feb 2020 16:01:44 -0500</pubDate>
-      
-      <guid>https://libraryvpn.org/faq/why-do-we-need-a-vpn-isnt-https-enough/</guid>
-      <description>HTTPS is very important for security. It provides end to end encryption of your content. You can think of this like an envelope on a letter. Unlike a postcard (http), people can no longer read the contents, but they can still find out lots of information (metadata) such as who is sending the information, who they are sending it to, and how much the two are talking.
-In contrast, a VPN provides an encrypted tunnel that all the web traffic passes through.</description>
-    </item>
-    
-    <item>
-      <title>Why Should I Use a Vpn?</title>
-      <link>https://libraryvpn.org/faq/why-should-i-use-a-vpn/</link>
-      <pubDate>Thu, 27 Feb 2020 15:29:43 -0500</pubDate>
-      
-      <guid>https://libraryvpn.org/faq/why-should-i-use-a-vpn/</guid>
-      <description>Virtual Private Networks (VPNs) protect your online traffic by creating a private tunnel between your computer and a VPN server. The internet traffic appears to orginate at the VPN server, and all that anyone who is sniffing network traffic can see is the encrypted connection. This helps those who are traveling, who are using public WIFI, or who want to avoid surveillance from their Internet Service Provider. Many mainstream sources such as the Freedom of the Press Foundation, the Wall Street Journal, and the Electronic Frontier Foundation all agree that using a VPN is an important part of maintaining privacy and security on the internet today.</description>
-    </item>
-    
-    <item>
-      <title>What Is Wrong With Current VPN Offerings?</title>
-      <link>https://libraryvpn.org/faq/what-is-wrong-with-current-vpn-offerings/</link>
-      <pubDate>Thu, 27 Feb 2020 15:27:53 -0500</pubDate>
-      
-      <guid>https://libraryvpn.org/faq/what-is-wrong-with-current-vpn-offerings/</guid>
-      <description>There are several problems with current VPN offerings.
-First, all reliable VPN solutions require a monthly fee. This puts them out of reach of those who are most vulnerable to exploitation. They are already in the position of using publicly available internet connections which puts their security and privacy at risk, and because of their financial circumstances they cannot take advantage of the technology which can protect them.
-The second problem is that using a VPN requires people to place their trust in whatever VPN company they use.</description>
-    </item>
     
     <item>
       <title>About</title>
@@ -58,16 +19,6 @@ The second problem is that using a VPN requires people to place their trust in w
       <guid>https://libraryvpn.org/about/</guid>
       <description>Library VPN LibraryVPN is a free and open source software project that allows libraries to host a Virtual Private Network (VPN) for their patrons.
 Patrons will download an easy to use client for their Windows, Mac, or Linux computer. They will then connect using their library card to have access to a free, high quality, and secure VPN from a provider that they know that they can trust, their local public library.</description>
-    </item>
-    
-    <item>
-      <title>Why Is This the Library&#39;s Role?</title>
-      <link>https://libraryvpn.org/faq/why-is-this-the-librarys-role/</link>
-      <pubDate>Thu, 27 Feb 2020 13:59:25 -0500</pubDate>
-      
-      <guid>https://libraryvpn.org/faq/why-is-this-the-librarys-role/</guid>
-      <description>Library VPN brings together two ideas that are both widely accepted in modern library practice. 1. Libraries should work to protect patron privacy 2. Libraries host online services for their patrons
-Libraries have long worked to protect patron privacy. Librarian sometimes refer to this as the &amp;ldquo;Freedom to Read&amp;rdquo;, but this extends far beyond physical books. We care about people being able to exercise their intellectual freedom when accessing information, regardless of the form that information takes.</description>
     </item>
     
     <item>
