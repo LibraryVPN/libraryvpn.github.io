@@ -6,10 +6,19 @@
     <description>Recent content in FAQ&#39;s on LibraryVPN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Feb 2020 09:35:18 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2020 09:45:34 -0500</lastBuildDate>
     
 	<atom:link href="https://libraryvpn.org/faq/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test FAQ 2</title>
+      <link>https://libraryvpn.org/faq/test-faq-2/</link>
+      <pubDate>Fri, 28 Feb 2020 09:45:34 -0500</pubDate>
+      
+      <guid>https://libraryvpn.org/faq/test-faq-2/</guid>
+      <description>Test 2</description>
+    </item>
     
     <item>
       <title>Test FAQ</title>
@@ -18,6 +27,16 @@
       
       <guid>https://libraryvpn.org/faq/test-faq/</guid>
       <description>This is a test</description>
+    </item>
+    
+    <item>
+      <title>Why Do We Need a Vpn? Isn&#39;t Https Enough?</title>
+      <link>https://libraryvpn.org/faq/why-do-i-need-a-vpn/</link>
+      <pubDate>Thu, 27 Feb 2020 16:01:44 -0500</pubDate>
+      
+      <guid>https://libraryvpn.org/faq/why-do-i-need-a-vpn/</guid>
+      <description>HTTPS is very important for security. It provides end to end encryption of your content. You can think of this like an envelope on a letter. Unlike a postcard (http), people can no longer read the contents, but they can still find out lots of information (metadata) such as who is sending the information, who they are sending it to, and how much the two are talking.
+In contrast, a VPN provides an encrypted tunnel that all the web traffic passes through.</description>
     </item>
     
     <item>
