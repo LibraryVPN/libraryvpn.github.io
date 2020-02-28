@@ -61,6 +61,16 @@ Patrons will download an easy to use client for their Windows, Mac, or Linux com
     </item>
     
     <item>
+      <title>About</title>
+      <link>https://libraryvpn.org/libraries/</link>
+      <pubDate>Thu, 27 Feb 2020 14:44:40 -0500</pubDate>
+      
+      <guid>https://libraryvpn.org/libraries/</guid>
+      <description>Library VPN LibraryVPN is a free and open source software project that allows libraries to host a Virtual Private Network (VPN) for their patrons.
+Patrons will download an easy to use client for their Windows, Mac, or Linux computer. They will then connect using their library card to have access to a free, high quality, and secure VPN from a provider that they know that they can trust, their local public library.</description>
+    </item>
+    
+    <item>
       <title>Why Is This the Library&#39;s Role?</title>
       <link>https://libraryvpn.org/faq/why-is-this-the-librarys-role/</link>
       <pubDate>Thu, 27 Feb 2020 13:59:25 -0500</pubDate>
@@ -104,16 +114,6 @@ Patrons will download an easy to use client for their Windows, Mac, or Linux com
       
       <guid>https://libraryvpn.org/faq/who-is-behind-libraryvpn/</guid>
       <description>LibraryVPN is an IMLS funded project. It is being developed by a partnership of libraries including the Lebanon Public Libraries, the Westchester Library System, and the Cherry hill Public Library working with LEAP. This software is free and opensource, so anyone who wishes to can install it and run it free of charge. We are currently investigated the possibility of a hosted version of this software for libraries that wish to use it, but don&amp;rsquo;t want to host it for themselves.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://libraryvpn.org/libraries/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://libraryvpn.org/libraries/</guid>
-      <description>title: &amp;ldquo;About&amp;rdquo; date: 2020-02-27T14:44:40-05:00 draft: false Library VPN LibraryVPN is a free and open source software project that allows libraries to host a Virtual Private Network (VPN) for their patrons.
-Patrons will download an easy to use client for their Windows, Mac, or Linux computer. They will then connect using their library card to have access to a free, high quality, and secure VPN from a provider that they know that they can trust, their local public library.</description>
     </item>
     
   </channel>
