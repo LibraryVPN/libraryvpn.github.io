@@ -53,8 +53,8 @@
       <pubDate>Thu, 27 Feb 2020 13:59:25 -0500</pubDate>
       
       <guid>https://libraryvpn.org/faq/why-is-this-the-librarys-role/</guid>
-      <description>Library VPN brings together two ideas that are both widely accepted in modern library practice.
- Libraries should work to protect patron privacy Libraries host online services for their patrons  Libraries have long worked to protect patron privacy. Librarian sometimes refer to this as the &amp;ldquo;Freedom to Read&amp;rdquo;, but this extends far beyond physical books. We care about people being able to exercise their intellectual freedom when accessing information, regardless of the form that information takes.</description>
+      <description>Library VPN brings together two ideas that are both widely accepted in modern library practice. 1. Libraries should work to protect patron privacy 2. Libraries host online services for their patrons
+Libraries have long worked to protect patron privacy. Librarian sometimes refer to this as the &amp;ldquo;Freedom to Read&amp;rdquo;, but this extends far beyond physical books. We care about people being able to exercise their intellectual freedom when accessing information, regardless of the form that information takes.</description>
     </item>
     
     <item>
@@ -112,8 +112,7 @@ This program will start in the 3rd quarter of 2020 and should go for six months.
       <pubDate>Thu, 27 Feb 2020 14:44:40 -0500</pubDate>
       
       <guid>https://libraryvpn.org/about/</guid>
-      <description>Library VPN LibraryVPN is a free and open source software project that allows libraries to host a Virtual Private Network (VPN) for their patrons.
-Patrons will download an easy to use client for their Windows, Mac, or Linux computer. They will then connect using their library card to have access to a free, high quality, and secure VPN from a provider that they know that they can trust, their local public library.</description>
+      <description>Library VPN A VPN (Virtual Private Network) is a widely used technology that encrypts your internet connection in order to keep your online activity private and secure. LibraryVPN is a free and open source software project that allows libraries to host a Virtual Private Network (VPN) for their patrons. LibraryVPN protects the online privacy, security, and intellectual freedom of library patrons, extending protections to patrons who can’t afford the price of a commercial VPN or who are unsure how to choose a trustworthy and safe VPN provider.</description>
     </item>
     
     <item>
